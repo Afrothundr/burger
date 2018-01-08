@@ -1,0 +1,21 @@
+img {
+	width: 300px;
+}
+
+.container {
+	text-align: center;
+}
+
+li {
+	list-style: none;
+	margin: 10px;
+}
+
+button {
+	background-color: darkgreen;
+	color: white;
+}
+
+body {
+	background-color: #e6e6e6
+}
